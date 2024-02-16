@@ -1,7 +1,7 @@
 # Housing-dataset-analysis
 
 ## Project Overview
-This repository is dedicated to a data cleaning project focused on the Nashville Housing dataset. The project aims to clean and prepare the dataset for analysis by addressing inconsistencies, missing values, and other data quality issues using SQL queries.
+This repository is dedicated to a data cleaning project focused on the Nashville Housing [Dataset](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx). The project aims to clean and prepare the dataset for analysis by addressing inconsistencies, missing values, and other data quality issues using SQL queries.
 
 The Nashville Housing dataset contains information about real estate transactions, including property addresses, sale dates, sale prices, and other relevant details. By cleaning and organizing this data, the project seeks to facilitate further analysis and insights into the Nashville real estate market.
 
