@@ -5,6 +5,8 @@ This repository is dedicated to a data cleaning project focused on the Nashville
 
 The Nashville Housing dataset contains information about real estate transactions, including property addresses, sale dates, sale prices, and other relevant details. By cleaning and organizing this data, the project seeks to facilitate further analysis and insights into the Nashville real estate market.
 
+**Inspiration:** This project was inspired by the work of [AlexTheAnalyst]((https://github.com/AlexTheAnalyst)), however, the code and additional functions implemented are unique to this project.
+
 ### Key Objectives:
 - **Standardize Data Format**: Convert date formats to a standardized format for consistency.
 - **Populate Missing Values**: Fill in missing property addresses and other relevant information.
